@@ -11,7 +11,7 @@ Hi there 👋 I'm Brylie.
 - 🤔 I’m looking for help with Wagtail Social Network
 - 💬 Ask me about Wagtail CMS
 - 📫 How to reach me: [Twitter](https://twitter.com/brylieo)
-- 😄 Pronouns: they/hän
+- 😃 Pronouns: they/hän
 
 ## Connect with me
 
