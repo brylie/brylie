@@ -1,6 +1,8 @@
 # Brylie Christopher Oxley
 Hi there 👋 I'm Brylie.
 
+![profile views](https://komarev.com/ghpvc/?username=brylie&color=green)
+
 <img align="right" alt="brylie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brylie&show_icons=true&hide_border=true&count_private=false" />
 
 <br />
