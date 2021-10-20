@@ -5,6 +5,8 @@ Hi there 👋 I'm Brylie.
 
 [![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=brylie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brylie)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 - 🔭 I’m currently working on Wagtail Social Network
