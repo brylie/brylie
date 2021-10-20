@@ -3,7 +3,7 @@ Hi there 👋 I'm Brylie.
 
 ![profile views](https://komarev.com/ghpvc/?username=brylie&color=blue)
 
-[![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=brylie)](https://github.com/anuraghazra/github-readme-stats)
+[![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=brylie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
