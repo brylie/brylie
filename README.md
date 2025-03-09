@@ -88,7 +88,7 @@ I'm always open to collaborating on interesting projects, especially those that 
 
 - 📫 Email: brylie@protonmail.com
 - 🌐 Website: [brylie.online](https://brylie.online)
-- 🐦 Bluesky: [brylie.bsky.social(https://bsky.app/profile/brylie.bsky.social))
+- 🐦 Bluesky: [brylie.bsky.social](https://bsky.app/profile/brylie.bsky.social)
 - 👔 LinkedIn: [brylie](https://www.linkedin.com/in/brylie)
 
 ---
