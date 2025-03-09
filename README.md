@@ -67,7 +67,7 @@ I'm a software engineer passionate about creating technology that has a positive
 
 I believe in the power of open source to democratize technology and create sustainable digital solutions. My contributions include:
 
-- **Wagtail CMS** - Developing extensions and sharing Wagtail expertise through community projects
+- **Wagtail CMS** - Contributing to extensions and sharing Wagtail expertise through community projects
 - **WesternFriend** - Led migration from Drupal to Wagtail, implementing comprehensive content management solutions
 - **Creative Commons** - Built community projects as a Web Engineer, fostering knowledge sharing across developer communities
 - **GeriLife** - Created an open-source platform for elder-care wellbeing tracking and analytics
