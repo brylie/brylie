@@ -46,7 +46,7 @@ A comprehensive digital platform for a religious organization featuring an onlin
 
 *Technologies: Wagtail, Django, Python*
 
-### [Piano Fitness](https://github.com/brylie/piano-fitness)
+### [Piano Fitness](https://github.com/PianoFitness)
 **Musical skill development tool**
 
 An open-source app to practice piano chords, arpeggios, and scales with MIDI keyboard integration and progress tracking. Designed for piano students and teachers.
