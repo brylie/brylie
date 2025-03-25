@@ -21,7 +21,7 @@ My work centers on using technology to address real human needs:
 
 ## 🔭 Featured Projects
 
-### GeriLife
+### [GeriLife](https://github.com/GeriLife)
 **A comprehensive elder-care ecosystem**
 
 GeriLife is a toolkit designed to transform elder care by making quality-of-life activities visible, measurable, and coordinated. Built from real-world insights and collaborative innovation, it helps ensure equitable engagement in life-enriching activities across care facilities.
